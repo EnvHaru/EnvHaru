@@ -15,19 +15,6 @@
 
 ---
 
-<!-- Manga Panel Showcase -->
-<p align="center">
-  <img src="assets/1" width="31%" alt="Manga Panel 1" />
-  <img src="assets/2.jpg" width="31%" alt="Manga Panel 2" />
-  <img src="assets/3.jpeg" width="31%" alt="Manga Panel 3" />
-</p>
-
-<p align="center">
-  <i>"Code with precision. Build with intent."</i>
-</p>
-
----
-
 ### 🖤 **Overview**
 
 Full-stack developer focused on web technologies, cross-platform applications, and Linux systems optimization.
