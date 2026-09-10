@@ -1,15 +1,9 @@
-# <p align="center">━━━━━ ✦ **ENV HARU** ✦ ━━━━━</p>
-
 <p align="center" style="width: 100%;">
-  <img src="assets/1.gif" style="width: 100%; height: 200px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Top Banner GIF" />
-</p>
-
-<p align="center" style="width: 100%; margin-top: 10px;">
-  <img src="assets/2.jpeg" style="width: 100%; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Banner JPEG" />
+  <img src="assets/1.jpeg" style="width: 100%; height: 200px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=%E2%80%95%E2%80%95+SYSTEM+INITIALIZED+%E2%80%95%E2%80%95;Software+%26+Web+Developer;Linux+%26+Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=%E2%80%95%E2%80%95+SYSTEM+INITIALIZED+%E2%80%95%E2%80%95;Software+%26+Web+Developer;Linux+%26+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,31 +15,47 @@
   </a>
 </p>
 
----
+```
+┌─── Matrix Node: EnvHaru ────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   [01] SYSTEM OVERVIEW                                                          │
+│   Full-stack developer focused on web technologies, cross-platform             │
+│   applications, and Linux systems optimization.                                 │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
 
-### 🖤 **Overview**
+<!-- GRID MATRIX SECTION -->
+<table align="center" style="border-collapse: collapse; border: 1px solid #333; background-color: #0d0d0d; width: 100%;">
+  <tr>
+    <td width="30%" valign="top" style="border: 1px solid #333; padding: 15px; background: #000000; color: #ffffff;">
+      <h4 align="center" style="color: #ffffff; border-bottom: 1px solid #333; padding-bottom: 5px;">⚡ DEV_STACK</h4>
+      <p style="font-family: monospace; font-size: 12px; line-height: 1.6;">
+        ■ <b>PHP / Laravel</b><br>
+        ■ <b>Flutter / Dart</b><br>
+        ■ <b>Tailwind CSS</b><br>
+        ■ <b>Alpine.js</b><br>
+        ■ <b>Python / Node.js</b>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: 1px solid #333; padding: 10px; background: #050505;">
+      <img src="assets/3.jpeg" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 4px; border: 1px solid #222;" alt="EnvHaru Core Center" />
+    </td>
+    <td width="30%" valign="top" style="border: 1px solid #333; padding: 15px; background: #000000; color: #ffffff;">
+      <h4 align="center" style="color: #ffffff; border-bottom: 1px solid #333; padding-bottom: 5px;">⚙️ SYS_ENV</h4>
+      <p style="font-family: monospace; font-size: 12px; line-height: 1.6;">
+        ■ <b>Fedora Linux</b><br>
+        ■ <b>Nginx / Hosting</b><br>
+        ■ <b>Docker / Git</b><br>
+        ■ <b>VS Code</b><br>
+        ■ <b>OBS Studio (VAAPI)</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Full-stack developer focused on web technologies, cross-platform applications, and Linux systems optimization.
+<br>
 
-- **Primary Stack:** PHP / Laravel, Flutter, Tailwind CSS, Alpine.js
-- **Environment:** Fedora Linux / Windows (Dual Boot)
-- **Focus:** Application architecture, workflow automation, performance tuning
-
----
-
-### ⚙️ **Tech Stack**
-
-```text
-┌── Languages & Frameworks
-│   ├── PHP / Laravel / Python / Node.js
-│   ├── Flutter / Dart
-│   └── HTML5 / CSS3 / Tailwind CSS / Alpine.js
-│
-├── Systems & Infrastructure
-│   ├── Fedora Linux / Bash / GRUB
-│   ├── Nginx / Hostinger / Web Hosting
-│   └── Git / GitHub / Docker
-│
-└── Tooling & Utilities
-    ├── VS Code / Inno Setup
-    └── OBS Studio (VAAPI / AMD HW)
+<p align="center" style="width: 100%; margin-top: 10px;">
+  <img src="assets/2.jpeg" style="width: 100%; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Footer Banner" />
+</p>
