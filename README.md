@@ -1,5 +1,10 @@
 # <p align="center">━━━━━ ✦ **ENV HARU** ✦ ━━━━━</p>
 
+<!-- Asset 2 Showcase Banner Paling Atas -->
+<p align="center">
+  <img src="assets/2" width="100%" alt="EnvHaru Top Banner" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=%E2%80%95%E2%80%95+SYSTEM+INITIALIZED+%E2%80%95%E2%80%95;Software+%26+Web+Developer;Linux+%26+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
