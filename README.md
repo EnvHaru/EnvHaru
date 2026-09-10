@@ -13,6 +13,12 @@
   <a href="https://github.com/EnvHaru">
     <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-white?style=for-the-badge&logoColor=black" />
   </a>
+  <a href="https://www.instagram.com/env.haru/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-env.haru-black?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/haru.indr/" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-haru.indr-white?style=for-the-badge&logo=facebook&logoColor=black" />
+  </a>
 </p>
 
 ```
