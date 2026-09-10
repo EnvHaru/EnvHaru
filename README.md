@@ -1,7 +1,11 @@
 # <p align="center">━━━━━ ✦ **ENV HARU** ✦ ━━━━━</p>
 
-<p align="center">
-  <img src="assets/1.gif" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px;" alt="EnvHaru Top Banner" />
+<p align="center" style="width: 100%;">
+  <img src="assets/1.gif" style="width: 100%; height: 200px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Top Banner GIF" />
+</p>
+
+<p align="center" style="width: 100%; margin-top: 10px;">
+  <img src="assets/2.jpeg" style="width: 100%; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; display: block;" alt="EnvHaru Banner JPEG" />
 </p>
 
 <p align="center">
