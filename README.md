@@ -1,8 +1,7 @@
 # <p align="center">━━━━━ ✦ **ENV HARU** ✦ ━━━━━</p>
 
-<!-- Asset 2 Showcase Banner Paling Atas -->
 <p align="center">
-  <img src="assets/2" width="100%" alt="EnvHaru Top Banner" />
+  <img src="assets/2.jpg" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px;" alt="EnvHaru Top Banner" />
 </p>
 
 <p align="center">
