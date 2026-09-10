@@ -25,7 +25,7 @@
 ┌─── Matrix Node: EnvHaru ────────────────────────────────────────────────────────┐
 │                                                                                 │
 │   [01] SYSTEM OVERVIEW                                                          │
-│   Full-stack developer focused on web technologies, cross-platform             │
+│   Full-stack developer focused on web technologies, cross-platform              │
 │   applications, and Linux systems optimization.                                 │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
